@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Publicacion\XExpressBack</_PublishTargetUrl>
+    <History>True|2023-05-16T10:17:32.6795553Z;True|2023-05-16T06:17:16.9488072-04:00;True|2023-05-16T05:12:45.6019220-04:00;True|2023-05-16T05:11:10.7932370-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Conexion">
+      <Value>Server=LAPTOP-DJSKIBK6%3b initial catalog=XExpress%3b user id=xexpress%3b password=Admin1234%3b MultipleActiveResultSets=true%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
